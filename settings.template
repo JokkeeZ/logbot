@@ -1,0 +1,6 @@
+{
+	"ip_whitelist": ["192.168."],
+	"dc_token": "",
+	"owner_id": 0,
+	"channel_id": 0
+}
